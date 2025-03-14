@@ -9,5 +9,7 @@
 3. Inicia el servidor.
  
 ## 📸 Capturas de pantalla
+Imagen del texto
 ![image](https://github.com/user-attachments/assets/c0bd919f-3448-41b5-b2f0-60c0dd4b13d3)
+Imagen del texto con el curson encima
 ![image](https://github.com/user-attachments/assets/7e4b55be-8df5-40d7-abd1-c3f42db0b881)
