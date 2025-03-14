@@ -1,4 +1,4 @@
 # Proyecto_1 - Crown
 
-## Tecnologías utilizadas  
+## 🚀 Tecnologías utilizadas  
 - Lenguaje: HTML y CSS
