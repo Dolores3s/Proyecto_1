@@ -1,0 +1,39 @@
+body {
+    background-color: crimson;
+    animation-name: backgroundChange;
+    animation-duration: 6s;
+    animation-iteration-count: infinite;
+}
+
+.imagen1{
+    width: 255px;
+}
+
+table{
+    text-align: center;
+    font-size: 80px;
+    opacity: 0.2;
+    color: whitesmoke;
+    font-family: Gill Sans, sans-serif;
+}
+
+.smallerSize{
+    font-size: 40px;
+}
+
+.biggerSize{
+    font-size: 80px;
+}
+
+@keyframes backgroundChange{
+    0% {background-color: crimson;}
+    20% {background-color: lightskyblue;}
+    40% {background-color: orange}
+    60% {background-color: turquoise;}
+    80% {background-color: teal;}
+    100% {background-color: yellowgreen;}
+}
+
+table:hover {
+    opacity: 1.0;
+}
